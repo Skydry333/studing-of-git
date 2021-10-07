@@ -1,2 +1,2 @@
-# Describing of Git curce
+# Explanation of the git course
 It is relly very intresting
